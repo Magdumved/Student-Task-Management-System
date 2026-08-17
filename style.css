@@ -1,25 +1,4 @@
-/* Universal reset to prevent default browser padding issues */
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-/* Base body styles */
-/*body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  background-color: #f4f7f6;
-  color: #333333;
-}
-
-/* Headings */
-/*h1 {
-  font-size: 2.5rem;
-  color: #111111;
-  margin-bottom: 1rem;
-}
-*/
 
 * {
     margin: 0;
